@@ -1,7 +1,7 @@
 # OS_Project
 This is an implementation of "Priority Scheduling (Preemitive)" Algorithm {Operating System Project}
 
-I implement AN scheduling algorithms simulation with JavaScript programming language. 
+I implemented an scheduling algorithms simulation with JavaScript programming language. 
 • GUI is a Front-End Page (Html & Css), and Gantt Chart is provided. 
 • Number of processes is user defined (i.e. user enters them at run 
 time).  
