@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OS Project</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <h1>Priority Scheduling (Preemptive)</h1>
+  
+  <div class="input-section">
+    <label>Number of Processes: <input type="number" id="processCount" min="1" required/></label>
+    <button onclick="generateInputs()">Submit</button>
+  </div>
+
+  <form id="processForm"></form>
+  
+  <button onclick="runScheduler()">Run Scheduler</button>
+
+  <div id="ganttChart"></div>
+  <div id="results"></div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
