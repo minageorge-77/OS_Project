@@ -12,4 +12,5 @@ numbers, or characters in the input fields).
 • Average Waiting Time, Average Turnaround Time, and Average Response Time is also calculated.  
  
 Scheduling Algorithm: Priority (Preemptive).
+I have explained the concept and the project in this video: https://drive.google.com/drive/folders/1ULV6P0molwIRFMAk0CBOs2HxCWVwFn7f?usp=drive_link
 Thank You..  
